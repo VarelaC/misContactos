@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">misContactos</string>
+    <string name="nombre">Jose Carlos Varela</string>
+    <string name="fecha">18/08/1985</string>
+    <string name="telefono">4444752123</string>
+    <string name="emial">carlos@gmail.com</string>
+    <string name="Descripcion">Soy yo</string>
+</resources>
